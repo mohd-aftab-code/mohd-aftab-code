@@ -67,9 +67,8 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>🏆 GitHub Analytics</h2>
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-aftab-code&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-aftab-code&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
